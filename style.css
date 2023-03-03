@@ -1,0 +1,26 @@
+.imagemIcone{
+    background-color: white;
+    text-align: center;
+    background-size: cover;
+    
+}
+
+.paragrafo{
+    text-align: center;
+    background-color: rgb(53, 53, 66);
+    font-size: xx-large;
+    color: white;
+    
+
+}
+
+.corPagina{
+    background-color: rgb(139, 133, 133);
+}
+
+.nivelDeFofura{
+    text-align: center;
+    font-size: xx-large;
+    background-color: rgb(53, 53, 66);
+    color: white;
+}
